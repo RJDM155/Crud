@@ -1,0 +1,23 @@
+{
+    "todos" : [
+        {
+            "title":"Task1",
+            "personal": "Henry",
+            "description": "Do the task",
+            "importance":"high"
+
+        },
+        {
+            "title":"Task2",
+            "personal": "Alejandra",
+            "description": "Do the task",
+            "importance":"Medium"
+        },
+        {
+            "title":"Task3",
+            "personal": "Hector",
+            "description": "Do the task",
+            "importance":"Low"
+        }
+    ]
+}
